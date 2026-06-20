@@ -1,0 +1,26 @@
+[
+  {
+    "employee_id": "EMP101",
+    "first_name": "Marcus",
+    "last_name": "Vance",
+    "department": "Engineering",
+    "job_title": "Cloud Security Engineer",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP102",
+    "first_name": "Elena",
+    "last_name": "Rostova",
+    "department": "HR",
+    "job_title": "Talent Acquisition Specialist",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP105",
+    "first_name": "David",
+    "last_name": "Kim",
+    "department": "Engineering",
+    "job_title": "DevOps Engineer",
+    "status": "Terminated"
+  }
+]
